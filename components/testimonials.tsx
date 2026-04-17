@@ -6,16 +6,19 @@ import { TestimonialCard } from "./ui/testimonial-cards";
 const testimonials = [
   {
     id: 1,
+    imageId: 11,
     testimonial: "Ján nám kompletne prerobil elektroinštaláciu v starom dome. Profesionálny prístup a všetko funguje ako hodinky. Odporúčam!",
     author: "Martin K. - Majiteľ domu"
   },
   {
     id: 2,
+    imageId: 60,
     testimonial: "Volal som ho o druhej ráno, lebo nám vyhadzovalo poistky a nešiel kotol. Prišiel do pol hodiny a poruchu okamžite opravil.",
     author: "Peter S. - Manažér reštaurácie"
   },
   {
     id: 3,
+    imageId: 10,
     testimonial: "Spoľahlivý, dochvíľny a veľmi šikovný elektrikár. Vybavil aj všetky potrebné revízne správy a papierovačky. Veľká vďaka.",
     author: "Lucia M. - Riaditeľka školy"
   }
