@@ -22,9 +22,9 @@ export function SplineSceneBasic() {
             Profesionálne elektroinštalácie, rýchle opravy porúch a revízie. Viac ako 15 rokov skúseností v regióne s garantovanou kvalitou práce.
           </p>
           <div className="mt-8 flex gap-4">
-            <button className="px-6 py-3 font-semibold rounded-full bg-[#FFCF23] text-black hover:bg-[#EBB816] transition-all">
+            <a href="tel:+421999999445" className="inline-block px-6 py-3 font-semibold rounded-full bg-[#FFCF23] text-black hover:bg-[#EBB816] transition-all text-center">
               Zavolať na poruchovú službu
-            </button>
+            </a>
             <button className="px-6 py-3 font-semibold rounded-full border border-white/20 text-white hover:bg-white/5 transition-all">
               Nezáväzná cenová ponuka
             </button>

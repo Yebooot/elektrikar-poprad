@@ -14,8 +14,8 @@ export default function Home() {
             <li><a href="#referencie" className="text-sm text-white/80 hover:text-white transition-colors">Referencie</a></li>
             <li><a href="#kontakt" className="text-sm text-white/80 hover:text-white transition-colors">Kontakt</a></li>
           </ul>
-          <a href="tel:+421900000000" className="inline-flex items-center justify-center font-semibold rounded-full bg-[#FFCF23] text-black hover:bg-[#EBB816] transition-transform hover:-translate-y-[1px] px-5 py-2.5 text-sm gap-2">
-            Pohotovosť: 09XX XXX XXX
+          <a href="tel:+421999999445" className="inline-flex items-center justify-center font-semibold rounded-full bg-[#FFCF23] text-black hover:bg-[#EBB816] transition-transform hover:-translate-y-[1px] px-5 py-2.5 text-sm gap-2">
+            Pohotovosť: 0999 999 445
           </a>
         </div>
       </nav>
