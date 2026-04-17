@@ -1,4 +1,5 @@
 import { SplineSceneBasic } from '@/components/ui/demo'
+import { TestimonialsSection } from '@/components/testimonials'
 
 export default function Home() {
   return (
@@ -80,6 +81,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <TestimonialsSection />
 
       {/* FOOTER */}
       <footer className="border-t border-[#2a2a2a] py-8 bg-[#0d0d0d] relative z-10 w-full">
